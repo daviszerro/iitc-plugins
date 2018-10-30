@@ -2,11 +2,11 @@
 // @id             iitc-plugin-less-clutter@qnstie
 // @name           IITC plugin: less clutter in the display
 // @category       Tweaks
-// @version        0.1.0.20170103
+// @version        0.1.0.20181030
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      http://iitcm.code-noobs.org/less-clutter.meta.js
-// @downloadURL    http://iitcm.code-noobs.org/less-clutter.user.js
-// @description    [3ch01c-2017-01-03] render markers as small circles with thin bezels, regardless of their level. Best to use with "Portal Levels" plugin.
+// @updateURL      https://github.com/daviszerro/iitc-plugins/raw/master/less-clutter.user.js
+// @downloadURL    https://github.com/daviszerro/iitc-plugins/raw/master/less-clutter.user.js
+// @description    Render markers as small circles with thin bezels, regardless of their level.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
@@ -32,13 +32,13 @@ window.plugin.lessClutter.setup = function() {
 	window.getMarkerStyleOptions = function(details) {
 	  var options = {
 		radius: 6,
-		stroke: true,
+		stroke: false,
 		color: COLORS[details.team],
 		weight: 1,
 		opacity: 1,
 		fill: true,
 		fillColor: COLORS[details.team],
-		fillOpacity: 1,
+		fillOpacity: 0.7,
 		dashArray: null
 	  };
 
