@@ -1,29 +1,17 @@
-# [barcodes](../../raw/master/barcodes.user.js)
-This plugin converts the display of barcode names into something more easily remembered.
+Collection of third party IITC plugins not including in [official IITC site](https://iitc.me) which I think handy to use and made some modifications.
 
-# [blueprint-portal-export](../../raw/master/blueprint-portal-export.user.js)
-This plugin integrates with the blueprint framework for making fields or something. Probably doesn't get used much anymore.
+----------
 
-# [bookmarks-by-zaso](../../raw/master/bookmarks-by-zaso.user.js)
-This is a way better bookmarks plugin because it lets you bookmark the same portal multiple times. Schweet.
+# Modded
 
-# [glympse](../../raw/master/glympse.user.js)
-This allows displaying Glympse locations on IITC. Reswue pretty much made this obsolete.
+## [less-clutter](../../raw/master/less-clutter.user.js)
+Renders portals as smaller circles. Cleans up the map. From [3ch01c/iitc-plugins](https://github.com/3ch01c/iitc-plugins).
 
-# [less-clutter](../../raw/master/less-clutter.user.js)
-Renders portals as smaller circles. Cleans up the map.
+# Refer
 
-# [portal-highlighter-high-level](../../raw/master/portal-highlighter-high-level.user.js)
-This modifies the highlighter to highlight portals with non-integer level value.
+## [Ingress-IITC-Multi-Export](https://github.com/modkin/Ingress-IITC-Multi-Export)
 
-# [scoreboard](../../raw/master/scoreboard.user.js)
-This gives some more score information. May not be totally accurate or even work at this point.
+> At the moment we support export of all portals in the current view, bookmarked portals by folders and portals inside a polygon
 
-# [uniques](../../raw/master/uniques.user.js)
-Adds captured/visited layers.
+> As formats we currently got: GPX, CSV and export for Maxfield
 
-# [superdata](../../raw/master/superdata.user.js)
-Load a lot more data.
-
-# [reso-energy-days-in-portal-detail](../../raw/master/reso-energy-days-in-portal-detail.user.js)
-Show resonator energy in days remaining.
