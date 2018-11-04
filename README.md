@@ -15,3 +15,7 @@ Renders portals as smaller circles. Cleans up the map. From [3ch01c/iitc-plugins
 > 
 > As formats we currently got: GPX, CSV and export for Maxfield
 
+## [Force Zoom Level](https://github.com/TheSned/IITCPlugins)
+
+> Forces the display of All Portals or All Links regardless of zoom level. Select the forced zoom level you want in the "Force Zoom Opt" dialog. Warning: This can cause many requests to the server at high zoom levels.
+
