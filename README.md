@@ -11,15 +11,6 @@ Collection of third party IITC plugins not including in [official IITC site](htt
 
 From [3ch01c/iitc-plugins](https://github.com/3ch01c/iitc-plugins).
 
-# 本人修改过的插件
-
-## [less-clutter](../../raw/master/less-clutter.user.js)
-
-> 将 portals 渲染出来的圆圈变小. 让地图看起来更干净. 
-
-来自 [3ch01c/iitc-plugins](https://github.com/3ch01c/iitc-plugins).
-
-
 # Refer Only
 
 ## [Ingress-IITC-Multi-Export](https://github.com/modkin/Ingress-IITC-Multi-Export)
@@ -31,6 +22,14 @@ From [3ch01c/iitc-plugins](https://github.com/3ch01c/iitc-plugins).
 ## [Force Zoom Level](https://github.com/TheSned/IITCPlugins)
 
 > Forces the display of All Portals or All Links regardless of zoom level. Select the forced zoom level you want in the "Force Zoom Opt" dialog. Warning: This can cause many requests to the server at high zoom levels.
+
+# 本人修改过的插件
+
+## [less-clutter](../../raw/master/less-clutter.user.js)
+
+> 将 portals 渲染出来的圆圈变小. 让地图看起来更干净. 
+
+来自 [3ch01c/iitc-plugins](https://github.com/3ch01c/iitc-plugins).
 
 # 纯收集未作改动的插件
 
