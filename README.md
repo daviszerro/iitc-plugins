@@ -23,7 +23,7 @@ From [3ch01c/iitc-plugins](https://github.com/3ch01c/iitc-plugins).
 
 > Forces the display of All Portals or All Links regardless of zoom level. Select the forced zoom level you want in the "Force Zoom Opt" dialog. Warning: This can cause many requests to the server at high zoom levels.
 
-# 本人修改过的插件
+# 修改过的插件
 
 ## [less-clutter](../../raw/master/less-clutter.user.js)
 
