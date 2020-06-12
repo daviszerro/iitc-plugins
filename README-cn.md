@@ -24,4 +24,4 @@
 
 ## [Drawn Cross Links](https://github.com/manierim/drawn-crosslinks)
 
-> 让[原版 Cross Link](https://static.iitc.me/build/release/plugins/cross_link.user.js) 功能额外具备检测用户用 [Draw tools](https://static.iitc.me/build/release/plugins/draw-tools.user.js) 画出来的线是否交叉的能力.
+> 让[原版 cross link](https://static.iitc.me/build/release/plugins/cross_link.user.js) 功能额外具备检测用户用 [Draw tools](https://static.iitc.me/build/release/plugins/draw-tools.user.js) 画出来的线是否交叉的能力.
